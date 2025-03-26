@@ -3,6 +3,14 @@
 This is a **Multilingual AI Assistant** powered by **Google Gemini AI**. It supports both **voice** and **text-based conversations** in multiple languages, providing a conversational experience with AI-generated responses. The assistant can respond in both **text and speech**.
 
 ---
+## 🚀 **Try it Live on Hugging Face Spaces**  
+
+Experience the Multilingual AI Assistant directly on Hugging Face Spaces without any setup!  
+
+👉 [**Launch the App on Hugging Face**](https://huggingface.co/spaces/AmritSbisht/Multilingual-Voice-Based-AI-Assistant)
+
+> No installation needed — just click and start chatting! 🌐
+
 
 ## 🚀 **Features**
 - **Multilingual Support**: Communicate in various languages like English, Hindi, Spanish, French, German, and Chinese.
