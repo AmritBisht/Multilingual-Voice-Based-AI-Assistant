@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 import os
 from gtts import gTTS
 import streamlit as st
-from streamlit_webrtc import webrtc_streamer, WebRtcMode
+from streamlit_webrtc import webrtc_streamer, WebRtcMode,AudioProcessorBase
 import queue
 import threading
 
