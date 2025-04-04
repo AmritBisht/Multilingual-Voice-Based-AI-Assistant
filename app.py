@@ -9,7 +9,7 @@ import queue
 import threading
 
 # Configure the page
-# st.set_page_config(page_title="Multilingual AI Assistant", layout="wide")
+st.set_page_config(page_title="Multilingual AI Assistant", layout="wide")
 
 
 # Load API key from .env file
@@ -198,5 +198,4 @@ def main():
 
 # Run the app
 if __name__ == "__main__":
-    st.set_page_config(page_title="Multilingual AI Assistant", layout="wide")
     main()
