@@ -8,3 +8,6 @@ gTTS
 google-generativeai
 python-dotenv
 streamlit
+streamlit-webrtc
+av
+dotenv
