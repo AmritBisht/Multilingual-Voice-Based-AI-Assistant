@@ -141,7 +141,6 @@ def display_chat():
 
 # Main app
 def main():
-    st.set_page_config(page_title="Multilingual AI Assistant", layout="wide")
 
     st.markdown("<h1 style='text-align: center; font-size: 40px; color: #1F51FF;'>🌐 Multilingual Voice-Based AI Assistant</h1>", unsafe_allow_html=True)
 
