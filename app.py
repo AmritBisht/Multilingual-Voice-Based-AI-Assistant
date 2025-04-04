@@ -7,6 +7,7 @@ import streamlit as st
 from streamlit_webrtc import webrtc_streamer, WebRtcMode,AudioProcessorBase
 import queue
 import threading
+import av
 
 # Configure the page
 st.set_page_config(page_title="Multilingual AI Assistant", layout="wide")
